@@ -1,0 +1,12 @@
+h1 {
+    text-align: center;
+}
+
+.image-container {
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    width: 20%;
+}
